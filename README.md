@@ -131,5 +131,3 @@ Experienced in Swift, SwiftUI, Flutter, AWS, APIs, in-app purchases, Core Data, 
 
 **Thank you for visiting my profile! 😊**
 
-
-</div>
