@@ -123,7 +123,7 @@ Experienced in Swift, SwiftUI, Flutter, AWS, APIs, in-app purchases, Core Data, 
 
 ## 🌐 Connect with Me
 
-<a href="https://linkedin.com/www.linkedin.com/in/rajinderpal-singh-831a2aa8">
+<a href="www.linkedin.com/in/rajinderpal-singh-831a2aa8">
     <img src="assets/linkedin.png" width="40" height="40"></a>&nbsp;
 <a href="rajinder0211@gmail.com">
     <img src="assets/email.png" width="40" height="40"></a>&nbsp;
